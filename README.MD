@@ -1,18 +1,18 @@
-# **Perfil**
+# **PERFIL**
 
 ## Guilherme Andrade Gomes
 
 ### Estudo Desenvolvimento de Sistemas 💻
 
-### Instrumento que toco 
+### INSTRUMENTO QUE TOCO 
 - 🎹TECLADO
 
-### Coisas que gosto de fazer
+### HOBBIES
 - ⚽ Jogar Futebol
 - 🎧 Ouvir música
 - 🛏Dormir
 - 🎮Jogar
 
-### -10 PONTOS
+
 
 
